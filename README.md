@@ -139,5 +139,5 @@ Get @km322 to add you as a contributor. It is the way and the only way.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Kaggle user KUMARESAN provided the dataset
+Kaggle https://www.kaggle.com/datasets/aidapearson/ocr-data?resource=download provided the dataset
 
